@@ -8,7 +8,8 @@ REPOSITORY:
 https://github.com/Watsonaj0316/portfolio-2-challegnge/edit/main/README.md
 
 IMAGE OF APPLICATION
-![screenshot](./assets/images/IMG_4778.jpg)
+![screenshot](./assets/images/IMG_4921.jpg)
+
 
 CONTACT:
 watsonalyece33@gmail.com
