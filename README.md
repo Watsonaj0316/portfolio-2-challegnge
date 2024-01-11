@@ -2,7 +2,7 @@
 This page is a Portfolio about myself and contains information about my skills and work and how to reach me.
 
 DEPLOYED APPLICATION:
-file:///C:/Users/Alyece%20Watson/UCR%20BOOTCAMP/portfolio-2-challegnge/index.html
+https://watsonaj0316.github.io/portfolio-2-challegnge/
 
 REPOSITORY:
 https://github.com/Watsonaj0316/portfolio-2-challegnge/edit/main/README.md
