@@ -8,7 +8,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background: rgb(141, 141, 169);
+    background-color: gray;
 }
 
 nav ul li{
@@ -37,11 +37,12 @@ img{
 
 .detel{
     margin-left: 8%;
-    margin-top:15% ;
+    margin-top:15%; 
+    margin-bottom:5%;
 }
 
 .detel h1{
-    font-size: 50px;
+    font-size: 70px;
     color:coral;
     margin-bottom: 20px;
 }
@@ -54,6 +55,20 @@ span{
 line-height: 22px;}
 
 .footer {position: absolute;
-    bottom: 0%;
+    margin-bottom: 5%;
     width: 100%;
 font-size: 20px;}
+
+.Work { font-size: 20px;
+    
+}
+
+.Work {margin-bottom: 5%;
+}
+
+.About {
+    font-size: 20px;
+}
+
+.About {margin-bottom: 5%;}
+
